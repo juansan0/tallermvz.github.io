@@ -63,7 +63,7 @@ document.querySelector("#app").innerHTML = /* html */ `
       </div>
     </div>
     <div class="relative order-1 md:order-2">
-      <img src="../public/assets/taller.jpeg" class="rounded-3xl shadow-xl object-cover w-full h-[250px] sm:h-[400px] border border-slate-200 transition-transform duration-500 hover:scale-[1.02]">
+      <img src="/assets/taller.jpeg" class="rounded-3xl shadow-xl object-cover w-full h-[250px] sm:h-[400px] border border-slate-200 transition-transform duration-500 hover:scale-[1.02]">
     </div>
   </section>
 
@@ -145,11 +145,11 @@ document.querySelector("#app").innerHTML = /* html */ `
         <div class="grid grid-cols-2 gap-2 md:gap-3 rounded-xl overflow-hidden mb-4">
           <div class="relative overflow-hidden group">
             <span class="absolute top-2 left-2 text-[9px] md:text-[10px] font-black bg-rose-600 text-white px-2 py-0.5 rounded shadow z-10">ANTES</span>
-            <img src="../public/assets/auto-antes.jpg" alt="Choque lateral Honda Fit antes de reparar" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
+            <img src="/assets/auto-antes.jpg" alt="Choque lateral Honda Fit antes de reparar" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
           </div>
           <div class="relative overflow-hidden group">
             <span class="absolute top-2 left-2 text-[9px] md:text-[10px] font-black bg-emerald-600 text-white px-2 py-0.5 rounded shadow z-10">DESPUÉS</span>
-            <img src="../public/assets/auto-despues.jpg" alt="Honda Fit reparado terminado" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
+            <img src="/assets/auto-despues.jpg" alt="Honda Fit reparado terminado" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
           </div>
         </div>
         <div class="flex flex-wrap items-center justify-between gap-2">
@@ -164,11 +164,11 @@ document.querySelector("#app").innerHTML = /* html */ `
         <div class="grid grid-cols-2 gap-2 md:gap-3 rounded-xl overflow-hidden mb-4">
           <div class="relative overflow-hidden group">
             <span class="absolute top-2 left-2 text-[9px] md:text-[10px] font-black bg-rose-600 text-white px-2 py-0.5 rounded shadow z-10">ANTES</span>
-            <img src="../public/assets/auto-antes.jpg" alt="Trompa desalineada Volkswagen Polo antes" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
+            <img src="/assets/auto-antes.jpg" alt="Trompa desalineada Volkswagen Polo antes" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
           </div>
           <div class="relative overflow-hidden group">
             <span class="absolute top-2 left-2 text-[9px] md:text-[10px] font-black bg-emerald-600 text-white px-2 py-0.5 rounded shadow z-10">DESPUÉS</span>
-            <img src="../public/assets/auto-despues.jpg" alt="Volkswagen Polo terminado e impecable" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
+            <img src="/assets/auto-despues.jpg" alt="Volkswagen Polo terminado e impecable" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
           </div>
         </div>
         <div class="flex flex-wrap items-center justify-between gap-2">
@@ -183,11 +183,11 @@ document.querySelector("#app").innerHTML = /* html */ `
         <div class="grid grid-cols-2 gap-2 md:gap-3 rounded-xl overflow-hidden mb-4">
           <div class="relative overflow-hidden group">
             <span class="absolute top-2 left-2 text-[9px] md:text-[10px] font-black bg-rose-600 text-white px-2 py-0.5 rounded shadow z-10">ANTES</span>
-            <img src="../public/assets/auto-antes.jpg" alt="Panel de BMW E82 abollado" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
+            <img src="/assets/auto-antes.jpg" alt="Panel de BMW E82 abollado" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
           </div>
           <div class="relative overflow-hidden group">
             <span class="absolute top-2 left-2 text-[9px] md:text-[10px] font-black bg-emerald-600 text-white px-2 py-0.5 rounded shadow z-10">DESPUÉS</span>
-            <img src="../public/assets/auto-despues.jpg" alt="Panel de Clio reparado a nuevo" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
+            <img src="/assets/auto-despues.jpg" alt="Panel de Clio reparado a nuevo" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
           </div>
         </div>
         <div class="flex flex-wrap items-center justify-between gap-2">
@@ -202,11 +202,11 @@ document.querySelector("#app").innerHTML = /* html */ `
         <div class="grid grid-cols-2 gap-2 md:gap-3 rounded-xl overflow-hidden mb-4">
           <div class="relative overflow-hidden group">
             <span class="absolute top-2 left-2 text-[9px] md:text-[10px] font-black bg-rose-600 text-white px-2 py-0.5 rounded shadow z-10">ANTES</span>
-            <img src="../public/assets/auto-antes.jpg" alt="Portón trasero hundido de Voyage antes" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
+            <img src="/assets/auto-antes.jpg" alt="Portón trasero hundido de Voyage antes" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
           </div>
           <div class="relative overflow-hidden group">
             <span class="absolute top-2 left-2 text-[9px] md:text-[10px] font-black bg-emerald-600 text-white px-2 py-0.5 rounded shadow z-10">DESPUÉS</span>
-            <img src="../public/assets/auto-despues.jpg" alt="Voyage con pintura espejo terminado" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
+            <img src="/assets/auto-despues.jpg" alt="Voyage con pintura espejo terminado" class="w-full h-36 sm:h-48 object-cover bg-slate-100 group-hover:scale-105 transition-transform duration-300">
           </div>
         </div>
         <div class="flex flex-wrap items-center justify-between gap-2">
