@@ -304,8 +304,7 @@ document.querySelector("#app").innerHTML = /* html */ `
         </div>
       </div>
       <div class="w-full h-64 md:h-80 bg-slate-800 rounded-2xl overflow-hidden relative">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3102.575831544097!2d-68.1202011!3d-38.9565176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x960a33cfb8a9cb6b%3A0x5ccd3adfa9cd5333!2sTaller%20De%20Chapa%20Y%20Pintura%20Mvz!5e0!3m2!1ses-419!2sar!4v1783191062346!5m2!1ses-419!2sar" class="w-full h-full border-0" allowfullscreen="" loading="lazy"></iframe>
-      </div>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6205.569855258525!2d-68.05748066232299!3d-38.95174150094084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x960a33d1d086e253%3A0xc23a0e78a6cc600c!2sMonumento%20a%20San%20Mart%C3%ADn!5e0!3m2!1ses-419!2sar!4v1788395530541!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe></div>
     </div>
   </section>
 
